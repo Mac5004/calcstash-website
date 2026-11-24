@@ -5,7 +5,8 @@
 - [x] Canonical URLs, robots and sitemap.
 - [x] Integrate owner-confirmed App Store URL (id6825376806) and Smart App Banner.
 - [ ] Independently verify listing metadata and approved version.
-- [ ] Add official App Store badge, real screenshots and verified pricing if applicable.
+- [x] Confirm launch version is free with owner; no Pro pricing comparison required.
+- [ ] Add official App Store badge and real screenshots in a subsequent enhancement.
 - [ ] Decide whether analytics is necessary; no tracker added by default.
 - [ ] Test rendered pages at mobile and desktop widths, keyboard navigation, contrast and performance.
 - [ ] Obtain owner approval before merge to main.
